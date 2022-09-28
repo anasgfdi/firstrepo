@@ -8,4 +8,4 @@ et juste à l'instant j'ai fait mon premier pull
 
 4 eme changement du repo
 
-la modification faite en local
+La modification faite en remote
